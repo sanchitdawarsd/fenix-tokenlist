@@ -1,0 +1,37 @@
+{
+  "name": "Fenix Mock Tokens",
+  "logoURI": "https://fenix-dex-api.vercel.app/tokens/USDB.png",
+  "keywords": ["fenix", "defi", "fnx", "usdb"],
+  "version": {
+    "major": 10,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-04-23T20:50:43+00:00",
+  "tokens": [
+    {
+      "address": "0x4300000000000000000000000000000000000004",
+      "chainId": 81457,
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://fenix-dex-api.vercel.app/tokens/WETH.png"
+    },
+    {
+      "address": "0x4300000000000000000000000000000000000003",
+      "chainId": 81457,
+      "name": "USDB",
+      "symbol": "USDB",
+      "decimals": 18,
+      "logoURI": "https://fenix-dex-api.vercel.app/tokens/USDB.png"
+    },
+    {
+      "address": "0xF7bc58b8D8f97ADC129cfC4c9f45Ce3C0E1D2692",
+      "chainId": 81457,
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://fenix-dex-api.vercel.app/tokens/WBTC.png"
+    }
+  ]
+}
